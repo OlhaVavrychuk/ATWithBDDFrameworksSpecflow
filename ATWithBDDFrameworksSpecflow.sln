@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATWithBDDFrameworksSpecflow", "ATWithBDDFrameworksSpecflow\ATWithBDDFrameworksSpecflow.csproj", "{7E59352E-4AFD-414F-B7A6-96F721F882EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E59352E-4AFD-414F-B7A6-96F721F882EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E59352E-4AFD-414F-B7A6-96F721F882EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E59352E-4AFD-414F-B7A6-96F721F882EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E59352E-4AFD-414F-B7A6-96F721F882EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59AECA88-3A30-4862-AB0E-3355FB104F94}
+	EndGlobalSection
+EndGlobal
